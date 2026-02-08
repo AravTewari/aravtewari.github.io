@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Arav Tewari&#39;s Blog</title>
+    <link>https://examplesite.com/posts/</link>
+    <description>Recent content in Posts on Arav Tewari&#39;s Blog</description>
+    <image>
+      <title>Arav Tewari&#39;s Blog</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Feb 2026 16:40:05 -0500</lastBuildDate>
+    <atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://examplesite.com/posts/my-first-post/</link>
+      <pubDate>Sun, 08 Feb 2026 16:40:05 -0500</pubDate>
+      <guid>https://examplesite.com/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;what-is-this-site-for&#34;&gt;What is this site for?&lt;/h2&gt;
+&lt;p&gt;This will just be an online notebook where I will jot down my learnings. It is mainly for me to formalize my own thoughts. If I think my notes are quality enough, then I will post them here. This serves to help me rather than spread new knowledge, but who knows, maybe one day I&amp;rsquo;ll share something groundbreaking here &lt;code&gt;¯\_(ツ)_/¯&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;what-will-i-post-here&#34;&gt;What will I post here?&lt;/h2&gt;
+&lt;p&gt;I will start off with putting my notes down about attention, the transformer, and GPT-2. Then I will add a post about the Llama-2 model. I hope to also make clean notes for the class I am taking right now, &lt;em&gt;18789: Deep Generative Modeling&lt;/em&gt;. I feel the professors teach very intutively, and if I were to scribe down lectures, I would learn a lot more than just sitting in class and paying attention.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
