@@ -2,22 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Arav Tewari&#39;s Blog</title>
-    <link>https://examplesite.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Arav Tewari&#39;s Blog</description>
     <image>
       <title>Arav Tewari&#39;s Blog</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Feb 2026 16:40:05 -0500</lastBuildDate>
-    <atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Feb 2026 19:11:45 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atten-hut!</title>
+      <link>http://localhost:1313/posts/attention/</link>
+      <pubDate>Sun, 08 Feb 2026 19:11:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/attention/</guid>
+      <description>&lt;p&gt;In this blog, I want to build attention from scratch. But I don&amp;rsquo;t want to jump straight into the best implementation. We&amp;rsquo;re going to start with dumbest, most naive possible code, see why it fails, and then add one idea at a time until attention falls on your head like the apple fell on Newton&amp;rsquo;s.&lt;/p&gt;
+&lt;p&gt;I learned it this way and it really stuck to me. This is heavily inspired from Karpathy&amp;rsquo;s video, and this concept has probably been beaten to hell. But the point of this blog is to just practice formalizing my notes.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>https://examplesite.com/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 08 Feb 2026 16:40:05 -0500</pubDate>
-      <guid>https://examplesite.com/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;what-is-this-site-for&#34;&gt;What is this site for?&lt;/h2&gt;
 &lt;p&gt;This will just be an online notebook where I will jot down my learnings. It is mainly for me to formalize my own thoughts. If I think my notes are quality enough, then I will post them here. This serves to help me rather than spread new knowledge, but who knows, maybe one day I&amp;rsquo;ll share something groundbreaking here &lt;code&gt;¯\_(ツ)_/¯&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;what-will-i-post-here&#34;&gt;What will I post here?&lt;/h2&gt;
